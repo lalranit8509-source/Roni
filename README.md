@@ -9,7 +9,7 @@
 - 🌱 Currently learning Machine Learning & Deep Learning
 - 💡 Interested in AI, Data Science, Computer Vision & NLP
 - 💻 Love building AI-powered projects
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: your-lalranit8509@gmail.com
 
 ---
 
